@@ -41,6 +41,17 @@ We offer various [research projects](/education/research-projects/) to both bach
   </details>
   <br>
   </ul>
+  
+* Live demo of the [HADDOCK2.4](https://wenmr.science.uu.nl/haddock2.4) thematic service. This demo given at the [EOSC-Hub week 2020 conference](https://www.eosc-hub.eu/events/eosc-hub-week-2020-goes-virtual) shows in particular how to setup a refinement run in HADDOCK2.4 to assess the impact of a mutation, using the interaction between SARS-CoV2 RBD domain and a peptide extracted from the ACE2 receptor as an example.
+
+  <ul>
+  <details>
+  <summary>View demo
+  </summary>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/0uf-o4p1cH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </details>
+  <br>
+  </ul>
 
 ## Tutorials
 
@@ -52,7 +63,8 @@ We offer various [research projects](/education/research-projects/) to both bach
 
 * [**Integrative modelling of the RNA polymerase III apo complex**](/education/HADDOCK24/RNA-Pol-III): A combination of our DISVIS, POWERFIT and HADDOCK2.4 portals using cross-links and cryo-EM data to model a large macromolecular assembly.
 
-* [**2018 BioExcel summerschool metadynamics / HADDOCK / CPMD tutorials**](/education/biomolecular-simulations-2018)
+* [**2020 BioExcel summerschool metadynamics / HADDOCK tutorial**](/education/biomolecular-simulations-2020)
 
 * [**2019 BioExcel summerschool metadynamics / HADDOCK tutorial**](/education/biomolecular-simulations-2019)
 
+* [**2018 BioExcel summerschool metadynamics / HADDOCK / CPMD tutorials**](/education/biomolecular-simulations-2018)

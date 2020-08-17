@@ -6,11 +6,21 @@ image:
 ---
 ## 2020
 
+* V. Tozzini , G. Palermo , **A.M.J.J. Bonvin** , M. Dal Peraro and R.E. Amaro. [Editorial: Multiscale Modeling from Macromolecules to Cell: Opportunities and Challenges of Biomolecular Simulations](https://www.frontiersin.org/articles/10.3389/fmolb.2020.00194/full). _Front. Mol. Biosci._ 10.3389/fmolb.2020.00194 (2020).
+
+* B. Jiménez-García, J.M.C. Teixeira, M.E. Trellet, J.P.G.L.M. Rodrigues and **A.M.J.J. Bonvin**. [PDB-Tools Web: A user-friendly interface for the manipulation of PDB files](https://doi.org/10.22541/au.159662521.16200914) _Authorea_ 10.22541/au.159662521.16200914 (2020).
+
+* J.L. Roel-Touris,  B. Jiménez-García and **A.M.J.J. Bonvin**. [Integrative Modeling of Membrane-associated Protein Assemblies](https://doi.org/10.1101/2020.07.20.211987). _BioRxiv_ 10.1101/2020.07.20.211987 (2020).
+ 
+* H.H. Rabouw, L.J. Visser, T.C. Passchier, M.A. Langereis, F. Liu, P. Giansanti, A.L.W. van Vliet, J.G. Dekker, S.G. van der Grein, J.G. Saucedo, A.A. Anand, M.E. Trellet, **A.M.J.J. Bonvin**, P. Walter, A.J.R. Heck, R.J. de Groot and F.J.M. van Kuppeveld. [Inhibition of the integrated stress response by viral proteins that block p-eIF2–eIF2B association](https://doi.org/10.1038/s41564-020-0759-0). _Nature Microbiology_, 10.1038/s41564-020-0759-0 (2020).
+
+* A. Leitner, **A.M.J.J. Bonvin**, C.H. Borchers, R.J. Chalkley, . Chamot-Rooke, C.W. Combe, J. Cox, M. Dong, L. Fischer, M. Götze, F.C. Gozzo, A.J.R. Heck, M.R. Hoopmann, L. Huang, Y. Ishihama, A.R. Jones, N. Kalisman, O. Kohlbacher, K. Mechtler, R.L. Moritz, E. Netz, P.r Novak, E. Petrotchenko, A. Sali, R.A. Scheltema, C. Schmidt, D. Schriemer, A. Sinz, F. Sobott, F. Stengel, K. Thalassinos, H. Urlaub, R. Viner, J.A. Vizcaino, M. R. Wilkins, J. Rappsilber. [Towards Increased Reliability, Transparency and Accessibility in Crosslinking Mass Spectrometry](https://arxiv.org/abs/2007.00383) _ArXiv_, 2007.00383 (2020).
+
 * F. Ambrosetti, Zuzana Jandova and **A.M.J.J. Bonvin**. [A protocol for information-driven antibody-antigen modelling with the HADDOCK2.4 webserver](http://arxiv.org/abs/2005.03283). _ArXiv_, 2005.03283 (2020).
 
-* J. Roel-Touris and **A.M.J.J. Bonvin**. Coarse-Grained (Hybrid) Integrative Modeling of Biomolecular Interactions. _Comp. Struct. Biotech. J._, In Press (2020).
+* J. Roel-Touris and **A.M.J.J. Bonvin**. [Coarse-Grained (Hybrid) Integrative Modeling of Biomolecular Interactions](https://doi.org/10.1016/j.csbj.2020.05.002). _Comp. Struct. Biotech. J._, *18*, 1182-1190 (2020).
 
-* R. Shukla, J. Medeiros-Silva, A. Parmar, B.J.A. Vermeulen, S. Das, A. Paioni, S. Jekhmane, J. Lorent, **A.M.J.J. Bonvin**, M. Baldus, M. Lelli, E.J.A. Veldhuizen, E. Breukink, I. Singh and M. Weingarth. Mode of action of teixobactins in cellular conditions. _Nature Communications_, In Press (2020).
+* R. Shukla, J. Medeiros-Silva, A. Parmar, B.J.A. Vermeulen, S. Das, A. Paioni, S. Jekhmane, J. Lorent, **A.M.J.J. Bonvin**, M. Baldus, M. Lelli, E.J.A. Veldhuizen, E. Breukink, I. Singh and M. Weingarth. [Mode of action of teixobactins in cellular conditions](https://www.nature.com/articles/s41467-020-16600-2). _Nature Communications_, *11*, 2848 (2020).
 
 * C. Orengo, S. Velankar, S. Wodak, V. Zoete, **A.M.J.J. Bonvin**, A. Elofsson, K.A Feen.stra, D.L. Gerloff, T. Hamelryck, J.M. Hancock, M. Helmer-Citterich, A. Hospital, M. Orozco, A. Perrakis, M. Rarey, C. Soares, J.L. Sussman, J.M. Thornton, P. Tuffery, G. Tusnady, R. Wierenga, T. Salminen, B. Schneider. [A community proposal to integrate structural bioinformatics activities in ELIXIR (3D-Bioinfo Community)](https://f1000research.com/articles/9-278/v1). _F1000 Research_, Awaiting peer review (2020).
 
@@ -22,7 +32,7 @@ image:
 
 * K. Elez, **A.M.J.J. Bonvin**#, Anna Vangone#. [Biological vs crystallographic protein interfaces: An overview of computational approaches for their classification](https://doi.org/10.3390/cryst10020114 ). _Crystals_, *10*, 114 (2020).
 
-* P.I. Koukos, J. Roel-Touris, F. Ambrosetti, C. Geng, J. Schaarschmidt, M.E. Trellet, A.S.J. Melquiond, L.C. Xue, R.V. Honorato, I. Moreira, Z. Kurkcuoglu, A. Vangone and **A.M.J.J. Bonvin**. [An overview of data-driven HADDOCK strategies in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25869). _Proteins: Struc. Funct. &amp; Bioinformatics_, Advanced Online Publication (2020).
+* P.I. Koukos, J. Roel-Touris, F. Ambrosetti, C. Geng, J. Schaarschmidt, M.E. Trellet, A.S.J. Melquiond, L.C. Xue, R.V. Honorato, I. Moreira, Z. Kurkcuoglu, A. Vangone and **A.M.J.J. Bonvin**. [An overview of data-driven HADDOCK strategies in CAPRI rounds 38-45](https://doi.org/10.1002/prot.25869). _Proteins: Struc. Funct. &amp; Bioinformatics_, *88*, 1029-1036 (2020).
 
 * F. Ambrosetti, B. Jiménez-García, J. Roel-Touris and **A.M.J.J. Bonvin**. [Modeling Antibody-Antigen Complexes by Information-Driven Docking](https://doi.org/10.1016/j.str.2019.10.011). _Structure_, *28*, 119-129 (2020). Preprint freely available from [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3362436).
 
@@ -36,10 +46,10 @@ image:
 
 * M.E. Trellet, G. van Zundert and **A.M.J.J. Bonvin**. [Protein-protein modelling using cryo-EM restraints](https://dx.doi.org/10.1007/978-1-0716-0270-6_11). In:  _Structural Bioinformatics. Methods in Molecular Biology_, vol 2112. Humana, New York, NY, (2020). A preprint is available [here](http://arxiv.org/abs/2005.00435).
 
+* P.I. Koukos and **A.M.J.J. Bonvin**. [Integrative modelling of biomolecular complexes](https://doi.org/10.1016/j.jmb.2019.11.009). _J. Mol.  Biol._ *432*, 2861-2881 (2020)
+
 
 ## 2019 
-
-* P.I. Koukos and **A.M.J.J. Bonvin**. [Integrative modelling of biomolecular complexes](https://doi.org/10.1016/j.jmb.2019.11.009). _J. Mol.  Biol._ Advanced Online Publication (2019)
 
 * M.F. Lensink, G. Brysbaert  N. Nadzirin, S. Velankar, R.A.G. Chaleil,  T, Gerguri,  P.A. Bates,  E. Laine,  A. Carbone,  S. Grudinin,  R. Kong,  R. Liu, X. Xu,  H, Shi, S. Chang,  M. Eisenstein,  A.a Karczynska,  C. Czaplewski, E. Lubecka, A. Lipska, P. Krupa, M. Mozolewska, L. Golon, S. Samsonov, A. Liwo, S. Crivelli, G. Pagès, M. Karasikov, M. Kadukova, Y. Yan, S. Huang, M. Rosell, L.A. Rodríguez‐Lumbreras, M. Romero‐Durana, L. Díaz‐Bueno, J. Fernandez‐Recio, C. Christoffer, G. Terashi, W. Shin, T. Aderinwale, S. Raghavendra Maddhuri Venkata Subraman, D. Kihara, D. Kozakov, S. Vajda, K. Porter, D. Padhorny, I. Desta, D. Beglov, M. Ignatov, S. Kotelnikov, I.H. Moal, D.W. Ritchie, I. Chauvot de Beauchêne, B. Maigret, M. Devignes, M.E. Ruiz Echartea, D, Barradas‐Bautista, Z. Cao, L. Cavallo, R. Oliva, Y. Cao, Y. Shen, M. Baek, T. Park, H. Woo, C. Seok, M. Braitbard, L. Bitton, D. Scheidman‐Duhovny, J. Dapkūnas, K. Olechnovič, Č. Venclovas, P.J. Kundrotas, S. Belkin, D. Chakravarty, V.D. Badal, I.A. Vakser, T.Vreven, S. Vangaveti, T. Borrman, Z. Weng, J.D. Guest, R. Gowthaman, B.G. Pierce, X. Xu, R. Duan, L. Qiu, J. Hou, B. Ryan Merideth, Z. Ma, J. Cheng, X. Zou, P.I. Koukos, J. Roel‐Touris, . Ambrosetti, C. Geng. J. Schaarschmidt, M.E. Trellet, A.S.J. Melquiond, L. Xue, B. Jiménez‐Garcí, C.W. van Noort, R.V. Honorato, **A.M.J.J. Bonvin**, S.J. Wodak. [Blind prediction of homo‐ and hetero‐protein complexes: The CASP13‐CAPRI experiment](https://doi.org/10.1002/prot.25838).
 _Proteins: Struc. Funct. &amp; Bioinformatics_, *87*, 1200-1221 (2019)
