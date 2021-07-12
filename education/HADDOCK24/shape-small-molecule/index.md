@@ -678,7 +678,7 @@ And the following PyMOL commands allow us to get a better overview of the bindin
 
 The visual analysis reveals that the top 10 models not only have very similar HADDOCK scores, they also adopt similar binding modes and are very close to the reference structure.
 
-As part of the analysis we can also compute the symmetry-corrected ligand RMSD for our model of choice. For example, for the top-scoring compound the following command can be used:
+We can now compute the symmetry-corrected ligand RMSD for our model of choice:
 
 <a class="prompt prompt-cmd">
   profit -f izone 1d3g.pdb 73078-tuto_pharm_summary/cluster1_1.pdb <br>
